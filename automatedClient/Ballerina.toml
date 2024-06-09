@@ -1,0 +1,11 @@
+[package]
+org = "user"
+name = "automatedClient"
+version = "0.1.0"
+distribution = "2201.9.0"
+
+[build-options]
+observabilityIncluded = true
+
+
+
